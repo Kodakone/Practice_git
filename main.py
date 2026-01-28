@@ -1,9 +1,15 @@
 def name():
     print('Ko Dae Kwon')
 
-name
+name()
 
 def friend():
     print('Sang Won')
 
-friend
+friend()
+
+# 추가
+def helloworld():
+    print('Hello World!')
+
+helloworld()
